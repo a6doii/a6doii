@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...AI
 - 🌱 I’m currently learning ...IN FCAI
 - 💞️ I’m looking to collaborate on ...PROGRAMING
-- 📫 How to reach me ...
+- 📫 How to reach me ..(abdohussin026@gmail.com)
 
 <!---
 a6doii/a6doii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
