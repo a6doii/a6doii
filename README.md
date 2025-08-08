@@ -2,10 +2,6 @@
 
 ###
 
-<img align="left" height="200" src="https://i.imghippo.com/files/yOqn6754vgY.JPG"  />
-
-###
-
 <h2 align="center">I'm a Software Engineer,Studying at FCAI-CU at IT Department 3rd level...</h2>
 
 ###
@@ -36,7 +32,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -76,7 +72,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a6doii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a6doii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a6doii&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
