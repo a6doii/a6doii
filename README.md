@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋! My name is AlHussain Abdo ..</h1>
+<h1 align="left">Hi 👋! I'm AlHussain Abdo ..</h1>
 
 ###
 
-<h2 align="center">I'm a Software Engineer,Studying at FCAI-CU at IT Department 3rd level...</h2>
+<h2 align="center"> Software Engineer,Studying at FCAI-CU at IT Department 3rd level...</h2>
 
 ###
 
