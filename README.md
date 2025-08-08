@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center"> Software Engineer,Studying at FCAI-CU at IT Department 3rd level...</h2>
+<h2 align="center"> Software Engineer,Studying at FCAI-CU at IT Department Senior level 🎓...</h2>
 
 ###
 
